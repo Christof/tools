@@ -11,3 +11,6 @@
 ## Command Line
 
 - fc: Opens the last command in the default editor (see `man builtins`)
+- ncdu: Shows disk usage stats in a TUI
+- duf: Shows disk usage stats
+- ripgrep: Fast text search tool
