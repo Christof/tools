@@ -14,3 +14,8 @@
 - ncdu: Shows disk usage stats in a TUI
 - duf: Shows disk usage stats
 - ripgrep: Fast text search tool
+
+## Network
+
+- [mosh](https://mosh.org/): Mobile shell that allows roaming and supports
+  intermittent connectivity
