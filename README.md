@@ -14,6 +14,8 @@
 - ncdu: Shows disk usage stats in a TUI
 - duf: Shows disk usage stats
 - ripgrep: Fast text search tool
+- fd: Find files by using a regex pattern. Similar to `find`, but faster and
+  easier to use. Package name is `fd-find` in some distros.
 
 ## Network
 
